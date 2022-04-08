@@ -12,8 +12,8 @@ obj = smtplib.SMTP('smtp.gmail.com',587)
 obj.ehlo()
 obj.starttls()
 
-sender_mail = '17amolgode@gmail.com'
-sender_password = '8830784757'
+sender_mail = 'example@gmail.com'
+sender_password = 'Password@123'
 
 obj.login(sender_mail, sender_password)
 ###
