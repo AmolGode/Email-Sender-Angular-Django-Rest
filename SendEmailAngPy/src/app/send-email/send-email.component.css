@@ -1,0 +1,42 @@
+
+/* .example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  } */
+  
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+
+.card{
+    width: 45%;
+    /* height: 80%; */
+    margin: auto;
+    padding: 20px;
+}
+
+.card h1{
+    text-align: center;
+}
+
+.container{
+    margin-top: -12px;
+
+}
+
+.spinner{
+    margin: auto;
+}
+
+.middle{
+    text-align: center;
+}
+
+.btns{
+    display: inline-block;
+    margin-right: 7px;
+    width: 90px;
+}
